@@ -1,0 +1,15 @@
+[general]
+name=GeoMend Toolkit
+qgisMinimumVersion=3.16
+description=Vector geometry toolkit: inspect & repair (invalid geometry, overlap, gaps, duplicates), sequential inward polygon buffers, left/right/both-sided line buffers, advance digitization (merge, dissolve, clean vertices, split non-contiguous shapes), and a single Output Destination control that keeps every output temporary or saves it permanently to disk.
+version=1.0.0
+author=Mohamed Taily Bah
+email=mtailybah@gmail.com
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
+homepage=https://github.com/YOUR-GITHUB-USERNAME/geomend-toolkit
+tracker=https://github.com/YOUR-GITHUB-USERNAME/geomend-toolkit/issues
+repository=https://github.com/YOUR-GITHUB-USERNAME/geomend-toolkit
